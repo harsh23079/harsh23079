@@ -8,7 +8,7 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **harshmishra6269@gmail.com**
 - 📝 I studied at Maharaja Agrasen Institute Of Technology
-- 📝 I am learing web and iOS development,DSA and python
+- 📝 I am learing web development(React + Node) & DSA 
 
 
 <br><br><br>
@@ -22,10 +22,10 @@
   <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img  alt="c" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+ 
+ 
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://www.swift.org/assets/images/swift.svg" alt="Swift logo" height="35">
+
  
 </div>
 
