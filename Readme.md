@@ -4,11 +4,10 @@
 > I am a hardworking individual who is dedicated towards his goals.
 <br />
 
-- 🌱 &nbsp;I'm currently pursuing for Btech in CSE at Guru Gobind Singh Indraprastha University
+- 🌱 &nbsp;I have done my Btech in CSE from Maharaja Agrasen Institute of Technology (MAIT) Delhi.
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **harshmishra6269@gmail.com**
-- 📝 I studied at Maharaja Agrasen Institute Of Technology
-- 📝 I am learing web development(React + Node) & DSA 
+- 📝 I am an Associate (Software) Designer at **[Antaresh Tech]**
 
 
 <br><br><br>
@@ -33,4 +32,5 @@
 <br><br>
 
 [linkedin]: https://www.linkedin.com/in/harsh-51629b149/
+[Antares Tech]: https://antares-tech.com/
 [![An image of @harsh23079's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harsh23079)](https://holopin.io/@harsh23079)
