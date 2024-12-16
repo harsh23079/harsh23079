@@ -7,7 +7,7 @@
 - 🌱 &nbsp;I have done my Btech in CSE from Maharaja Agrasen Institute of Technology (MAIT) Delhi.
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **harshmishra6269@gmail.com**
-- 📝 I am an Associate (Software) Designer at **[Antaresh] Tech**
+- 📝 I am an Associate (Software) Designer at **[Antaresh]** Tech
 
 
 <br><br><br>
